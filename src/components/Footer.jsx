@@ -36,7 +36,7 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: <Facebook size={20} />,
-      href: "https://facebook.com",
+      href: "https://www.facebook.com/bhattarai.aarci.9",
       label: "Facebook",
     },
     {
@@ -46,10 +46,12 @@ const Footer = () => {
     },
     {
       icon: <Instagram size={20} />,
-      href: "https://instagram.com",
+      href: "https://instagram.com/Shre_esty_",
       label: "Instagram",
     },
-    { icon: <Github size={20} />, to: "https://github.com", label: "Github" },
+    { icon: <Github size={20} />,
+     href: "https://github.com/Shhristii",
+      label: "Github" },
   ];
 
   return (
